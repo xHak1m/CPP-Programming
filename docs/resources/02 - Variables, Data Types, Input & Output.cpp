@@ -6,10 +6,10 @@ int main() {
 	int age;
 	char favLetter;
 	
-	cout << "Enter your name: " << endl;
+	cout << "Enter your name: ";
 	cin >> name;
 	
-	cout << "Enter your age: " << endl;
+	cout << "Enter your age: ";
 	cin >> age;
 	
 	cout << "Enter your favorite letter: ";
